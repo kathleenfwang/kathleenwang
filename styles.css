@@ -1,6 +1,7 @@
- html{
- 	font-family: :'Roboto',sans-serif;
-	background-color: peachpuff;
+ body {
+ 	font-family: "Roboto";
+ 	margin-bottom: 50px;
+	 
  }
 .icons-social i{
 	font-size: 3em;
@@ -8,8 +9,8 @@
 }
 
 main {
-	font-family:'Roboto',sans-serif;
-	background-color: powderblue;
+	 
+	 
 
 	display:flex;
 	flex-direction: column;
@@ -20,20 +21,20 @@ main {
 }
 
 main > .intro {
-	font-family: 'Reem Kufi', sans-serif;
+	 
 	font-size: 3.75em;
 	font-weight 600;
 }
 
 main >.tagline {
-	font-family: 'Roboto', sans-serif;
+	 
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
 
 main >.about {
-	font-family: 'Roboto'
+ 
 	font-size: 1rem;
 	margin: 1.5rem 0;
 	font-weight: 50;
@@ -66,4 +67,11 @@ main >.about {
 	border-bottom-color: white;
 }
 
+h5 { 
+font-family: "Roboto";
+ }
 
+ .piccard {
+ 	background-color: white
+
+ }
